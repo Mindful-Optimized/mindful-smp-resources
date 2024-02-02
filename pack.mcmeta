@@ -1,10 +1,10 @@
 {
     "pack": {
         "pack_format": 15,
-        "description": "Mindful SMP Resource Pack v1.0",
+        "description": "Mindful SMP Resources",
         "supported_formats": {
-            "min_inclusive": 15,
-            "max_inclusive": 18
+            "min_inclusive": 13,
+            "max_inclusive": 24
         }
     }
 }
