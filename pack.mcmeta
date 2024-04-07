@@ -1,10 +1,31 @@
 {
-    "pack": {
-        "pack_format": 15,
-        "description": "Mindful SMP Resources v1.0.5",
-        "supported_formats": {
-            "min_inclusive": 13,
-            "max_inclusive": 24
-        }
-    }
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			22
+		],
+		"description": [
+			{
+				"text": "Mindful",
+				"color": "#f4f4f4"
+			},
+			{
+				"text": "SMP",
+				"color": "#ffaa00"
+			},
+            {
+				"text": "Resources",
+				"color": "#ffaa00"
+			},
+            {
+				"text": "Version ",
+				"color": "#e78d58"
+			},
+			{
+				"text": "1.0.5",
+				"color": "#55ff55"
+			}
+		]
+	}
 }
