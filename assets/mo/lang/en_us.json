@@ -1,0 +1,11 @@
+{
+    "modmenu.dropInfo.line1":"Mods have \u00A7l\u00A7d[Modpack],","modmenu.dropInfo.line2":"others are added by you",
+    "menu.shareToLan": "Open to Friends",
+    "lanServer.title": "Open to Friends",
+    "lanServer.start": "Open to Friends",
+    "menu.playerReporting": "Player Settings",
+    "block.minecraft.stonecutter": "Blockcutter",
+    "container.stonecutter": "Blockcutter",
+    "stat.minecraft.interact_with_stonecutter": "Interactions with Blockcutter",
+    "subtitles.ui.stonecutter.take_result": "Blockcutter used"
+}
