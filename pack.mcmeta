@@ -8,15 +8,15 @@
 		"description": [
 			{
 				"text": "Mindful ",
-				"color": "#f4f4f4"
+				"color": "#e9b115"
 			},
 			{
 				"text": "SMP ",
-				"color": "#ffaa00"
+				"color": "#dc9613"
 			},
             {
 				"text": "Resources ",
-				"color": "#ffaa00"
+				"color": "#12408b"
 			},
             {
 				"text": "- ",
@@ -24,7 +24,7 @@
 			},
             {
 				"text": "Version ",
-				"color": "#e78d58"
+				"color": "#55ff55"
 			},
 			{
 				"text": "1.0.5",
