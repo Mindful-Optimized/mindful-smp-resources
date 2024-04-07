@@ -7,16 +7,20 @@
 		],
 		"description": [
 			{
-				"text": "Mindful",
+				"text": "Mindful ",
 				"color": "#f4f4f4"
 			},
 			{
-				"text": "SMP",
+				"text": "SMP ",
 				"color": "#ffaa00"
 			},
             {
-				"text": "Resources",
+				"text": "Resources ",
 				"color": "#ffaa00"
+			},
+            {
+				"text": "- ",
+				"color": "#aaaaaa"
 			},
             {
 				"text": "Version ",
