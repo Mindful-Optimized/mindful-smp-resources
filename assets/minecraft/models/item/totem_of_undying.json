@@ -25,8 +25,9 @@
     {"predicate": {"custom_model_data": 119}, "model": "item/Swind3ls_totem"},
     {"predicate": {"custom_model_data": 120}, "model": "item/QStikki_totem"},
     {"predicate": {"custom_model_data": 122}, "model": "item/IntrLynx_totem"},
-    {"predicate": {"custom_model_data": 666666}, "model": "item/MindfulSMP_totem"}
-    
+    {"predicate": {"custom_model_data": 123}, "model": "item/totem_of_undying"},
+    {"predicate": {"custom_model_data": 666666}, "model": "item/MindfulSMP_totem"},
+    {"predicate": {"custom_model_data": 666667}, "model": "item/totem_of_undying"}
 	]
 }
 }
