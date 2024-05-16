@@ -1,35 +1,35 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"supported_formats": [
-			15,
-			31
-		],
-		"description": [
-			{
-				"text": "Mindful ",
-				"color": "#e9b115"
-			},
-			{
-				"text": "SMP ",
-				"color": "#dc9613"
-			},
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            15,
+            31
+        ],
+        "description": [
             {
-				"text": "Resources ",
-				"color": "#12408b"
-			},
+                "text": "Mindful ",
+                "color": "#e9b115"
+            },
             {
-				"text": "- ",
-				"color": "#aaaaaa"
-			},
+                "text": "SMP ",
+                "color": "#dc9613"
+            },
             {
-				"text": "Version ",
-				"color": "#55ff55"
-			},
-			{
-				"text": "1.0.9",
-				"color": "#55ff55"
-			}
-		]
-	}
+                "text": "Resources ",
+                "color": "#12408b"
+            },
+            {
+                "text": "- ",
+                "color": "#aaaaaa"
+            },
+            {
+                "text": "Version ",
+                "color": "#55ff55"
+            },
+            {
+                "text": "1.0.10",
+                "color": "#55ff55"
+            }
+        ]
+    }
 }

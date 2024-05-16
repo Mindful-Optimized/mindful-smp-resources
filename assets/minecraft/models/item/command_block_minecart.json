@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/command_block_minecart"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 666647}, "model": "item/command_block_minecart"},
+    {"predicate": {"custom_model_data": 666648}, "model": "item/flex_icon"},
+    {"predicate": {"custom_model_data": 666649}, "model": "item/unlock_armor_stand"},
+    {"predicate": {"custom_model_data": 666650}, "model": "item/lock_armor_stand"},
+    {"predicate": {"custom_model_data": 666651}, "model": "item/unlocked_item_frame"},
+    {"predicate": {"custom_model_data": 666652}, "model": "item/locked_item_frame"},
+    {"predicate": {"custom_model_data": 666653}, "model": "item/audioplayer_icon"},
+    {"predicate": {"custom_model_data": 666654}, "model": "item/hat_icon"},
+    {"predicate": {"custom_model_data": 666655}, "model": "item/freecam_icon"},
+    {"predicate": {"custom_model_data": 666656}, "model": "item/map_icon"},
+    {"predicate": {"custom_model_data": 666657}, "model": "item/frontier_icon"},
+    {"predicate": {"custom_model_data": 666658}, "model": "item/sit_icon"},
+    {"predicate": {"custom_model_data": 666659}, "model": "item/status_icon"},
+    {"predicate": {"custom_model_data": 666660}, "model": "item/litematica_icon"},
+    {"predicate": {"custom_model_data": 666661}, "model": "item/find_icon"},
+    {"predicate": {"custom_model_data": 666662}, "model": "item/voicechat"},
+    {"predicate": {"custom_model_data": 666663}, "model": "item/worldmap"},
+    {"predicate": {"custom_model_data": 666664}, "model": "item/smys"},
+    {"predicate": {"custom_model_data": 666665}, "model": "item/emotes"},
+    {"predicate": {"custom_model_data": 666666}, "model": "item/wits_icon"},
+    {"predicate": {"custom_model_data": 666667}, "model": "item/sm_icon"},
+    {"predicate": {"custom_model_data": 666668}, "model": "item/command_block_minecart"}
+	]
+}
