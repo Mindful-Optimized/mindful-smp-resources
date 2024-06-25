@@ -3,7 +3,7 @@
         "pack_format": 15,
         "supported_formats": [
             15,
-            31
+            34
         ],
         "description": [
             {
@@ -27,7 +27,7 @@
                 "color": "#55ff55"
             },
             {
-                "text": "1.0.10",
+                "text": "1.1.0",
                 "color": "#55ff55"
             }
         ]
