@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/totem/YaBoiChips_totem"
+		"layer0": "item/totem/yaboichips_totem"
 	}
 }

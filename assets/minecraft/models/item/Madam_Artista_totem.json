@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/totem/Madam_Artista_totem"
+		"layer0": "item/totem/madam_artista_totem"
 	}
 }
