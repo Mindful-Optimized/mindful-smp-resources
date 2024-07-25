@@ -17,7 +17,7 @@
     {"predicate": {"custom_model_data": 666657}, "model": "item/frontier_icon"},
     {"predicate": {"custom_model_data": 666658}, "model": "item/sit_icon"},
     {"predicate": {"custom_model_data": 666659}, "model": "item/status_icon"},
-    {"predicate": {"custom_model_data": 666660}, "model": "item/litematica_icon"},
+    {"predicate": {"custom_model_data": 666660}, "model": "item/whistle_icon"},
     {"predicate": {"custom_model_data": 666661}, "model": "item/find_icon"},
     {"predicate": {"custom_model_data": 666662}, "model": "item/voicechat"},
     {"predicate": {"custom_model_data": 666663}, "model": "item/worldmap"},
