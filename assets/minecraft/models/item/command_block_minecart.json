@@ -18,7 +18,7 @@
     {"predicate": {"custom_model_data": 666658}, "model": "item/sit_icon"},
     {"predicate": {"custom_model_data": 666659}, "model": "item/status_icon"},
     {"predicate": {"custom_model_data": 666660}, "model": "item/whistle_icon"},
-    {"predicate": {"custom_model_data": 666661}, "model": "item/find_icon"},
+    {"predicate": {"custom_model_data": 666661}, "model": "item/unwhistle_icon"},
     {"predicate": {"custom_model_data": 666662}, "model": "item/voicechat"},
     {"predicate": {"custom_model_data": 666663}, "model": "item/worldmap"},
     {"predicate": {"custom_model_data": 666664}, "model": "item/smys"},
