@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/item_frames/invisible_item_frame"
+		"layer0": "item/item_frames/glowing_invisible_item_frame"
 	}
 }
