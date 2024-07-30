@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 666665}, "model": "item/item_frame"},
+    {"predicate": {"custom_model_data": 666666}, "model": "item/invisible_item_frame"},
+    {"predicate": {"custom_model_data": 666667}, "model": "item/item_frame"}
+	]
+}
