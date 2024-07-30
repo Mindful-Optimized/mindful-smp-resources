@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/item_frame"
   },
     "overrides": [
-    {"predicate": {"custom_model_data": 666665}, "model": "item/item_frame"},
-    {"predicate": {"custom_model_data": 666666}, "model": "item/invisible_item_frame"},
-    {"predicate": {"custom_model_data": 666667}, "model": "item/item_frame"}
+    {"predicate": {"custom_model_data": 666665}, "model": "minecraft:item/glow_item_frame"},
+    {"predicate": {"custom_model_data": 666666}, "model": "item/item_frames/invisible_item_frame"},
+    {"predicate": {"custom_model_data": 666667}, "model": "minecraft:item/glow_item_frame"}
 	]
 }
