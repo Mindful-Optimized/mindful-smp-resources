@@ -7,5 +7,7 @@
     "block.minecraft.stonecutter": "Blockcutter",
     "container.stonecutter": "Blockcutter",
     "stat.minecraft.interact_with_stonecutter": "Interactions with Blockcutter",
-    "subtitles.ui.stonecutter.take_result": "Blockcutter used"
+    "subtitles.ui.stonecutter.take_result": "Blockcutter used",
+    "item.minecraft.invisible_item_frame": "Invisible Item Frame",
+    "item.minecraft.glow_invisible_item_frame": "Invisible Glow Item Frame"
 }
