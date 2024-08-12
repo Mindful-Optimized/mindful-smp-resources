@@ -22,7 +22,7 @@
     {"predicate": {"custom_model_data": 666662}, "model": "item/voicechat"},
     {"predicate": {"custom_model_data": 666663}, "model": "item/worldmap"},
     {"predicate": {"custom_model_data": 666664}, "model": "item/smys"},
-    {"predicate": {"custom_model_data": 666665}, "model": "item/emotes"},
+    {"predicate": {"custom_model_data": 666665}, "model": "item/flex_icon"},
     {"predicate": {"custom_model_data": 666666}, "model": "item/wits_icon"},
     {"predicate": {"custom_model_data": 666667}, "model": "item/sm_icon"},
     {"predicate": {"custom_model_data": 666668}, "model": "item/command_block_minecart"}
