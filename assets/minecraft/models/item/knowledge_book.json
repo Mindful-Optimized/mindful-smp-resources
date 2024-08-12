@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/knowledge_book"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 484336}, "model": "item/knowledge_book"},
+    {"predicate": {"custom_model_data": 484337}, "model": "item/guide_book"},
+    {"predicate": {"custom_model_data": 484338}, "model": "item/knowledge_book"}
+	]
+}
