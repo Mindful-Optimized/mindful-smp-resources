@@ -5,7 +5,7 @@
   },
     "overrides": [
     {"predicate": {"custom_model_data": 666647}, "model": "item/command_block_minecart"},
-    {"predicate": {"custom_model_data": 666648}, "model": "item/flex_icon"},
+    {"predicate": {"custom_model_data": 666648}, "model": "item/keybind_search_icon"},
     {"predicate": {"custom_model_data": 666649}, "model": "item/unlock_armor_stand"},
     {"predicate": {"custom_model_data": 666650}, "model": "item/lock_armor_stand"},
     {"predicate": {"custom_model_data": 666651}, "model": "item/unlocked_item_frame"},
