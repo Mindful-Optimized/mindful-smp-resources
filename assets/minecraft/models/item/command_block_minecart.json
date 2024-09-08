@@ -10,7 +10,7 @@
     {"predicate": {"custom_model_data": 666650}, "model": "item/lock_armor_stand"},
     {"predicate": {"custom_model_data": 666651}, "model": "item/unlocked_item_frame"},
     {"predicate": {"custom_model_data": 666652}, "model": "item/locked_item_frame"},
-    {"predicate": {"custom_model_data": 666653}, "model": "item/command_block_minecart"},
+    {"predicate": {"custom_model_data": 666653}, "model": "item/emotes_icon"},
     {"predicate": {"custom_model_data": 666654}, "model": "item/hat_icon"},
     {"predicate": {"custom_model_data": 666655}, "model": "item/freecam_icon"},
     {"predicate": {"custom_model_data": 666656}, "model": "item/map_icon"},
